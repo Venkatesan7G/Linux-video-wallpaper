@@ -1,4 +1,4 @@
-# video-wallpaper
+# Linux-video-wallpaper
 
 Run a video as an animated live wallpaper on your Ubuntu/Debian-based Linux desktop with dual/multiple monitor support.
 
@@ -42,6 +42,10 @@ All dependencies will be installed when running `install.sh`.
 Run `install.sh --uninstall` to remove all files associated with video-wallpaper.
 
 ## Changelog
+
+**2022/05/12**
+
+* Added Videos for wallaer and a picture in assest folder
 
 **2022/02/22**
 
