@@ -1,4 +1,4 @@
-# Linux-video-wallpaper
+# Linux-video-wallpaper ( This is forked from:"ghostlexly/gpu-video-wallpaper" )
 
 Run a video as an animated live wallpaper on your Ubuntu/Debian-based Linux desktop with dual/multiple monitor support.
 
@@ -36,6 +36,21 @@ All dependencies will be installed when running `install.sh`.
 - pcregrep
 - mpv
 - xwinwrap
+
+## Application
+
+Picture After installation:
+
+
+![A1](https://user-images.githubusercontent.com/59331727/168027179-ca35beb3-8d39-466e-b7ed-99cb20f3be6f.png)
+
+
+
+Application screen:
+
+
+![A2](https://user-images.githubusercontent.com/59331727/168027278-9d032bb1-5966-472a-9436-72feb1717fae.png)
+
 
 ## Uninstall
 
